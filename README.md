@@ -19,8 +19,9 @@ Ela permite realizar operações básicas como **adição, subtração, multipli
 - **CSS3**
 - **JavaScript Vanilla**
 
-## 📁 Como Executar Localmente
+## 📁 Estrutura do Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Gugusk8/Calculadora.git
+📦 Calculadora
+ ┣ 📜 index.html
+ ┣ 📜 style.css
+ ┗ 📜 script.js
